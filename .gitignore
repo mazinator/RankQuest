@@ -1,0 +1,9 @@
+/.env/
+/.env2/
+/.idea
+/data/glove.42B.300d.txt
+.DS_Store
+/src/__pycache__
+/checkpoints
+/data/
+*.txt
