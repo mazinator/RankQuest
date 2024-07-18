@@ -1,5 +1,7 @@
 # RankQuest
- neural re-ranking with KNRM/TK model and some BERT-based QAs
+
+Using the KNRM and TK model as neural re-rankers to evaluate performances 
+on msmarco and FiRA dataset. Playing around with a BERT-based QA model
 
 ## Content
 
